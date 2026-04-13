@@ -1,0 +1,9 @@
+sonar.projectKey=deepanshu1234-lab_8.2CDevSecOps
+sonar.organization=deepanshu1234-lab
+sonar.host.url=https://sonarcloud.io
+sonar.login=${f787ed3b839f55775b5839403e247694d3550377}
+sonar.sources=.
+sonar.exclusions=node_modules/**,test/**
+sonar.javascript.lcov.reportPaths=coverage/lcov.info
+sonar.projectName=NodeJS Goof Vulnerable App
+sonar.sourceEncoding=UTF-8
